@@ -1,4 +1,4 @@
-{
+[
 text:
 {
 A writer never has a vacation. For a writer life consists of either writing or thinking about writing. 
@@ -51,4 +51,4 @@ Don’t let mental blocks control you. Set yourself free. Confront your fear and
 
 author:Dr Roopleen
 }.
-}
+]
