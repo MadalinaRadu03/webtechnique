@@ -17,5 +17,13 @@
  {
  "text":"dont give up too early",
   "author":"Madalina"
+ },
+ {
+ "text":"Be yourself; everyone else is already taken",
+  "author":"Oscar Wilde"
+ },
+ {
+ "text":"So many books, so little time.",
+  "author":"Frank Zappa"
  }
 ]
