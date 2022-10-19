@@ -14,4 +14,8 @@
  "text":"Friendship ... is born at the moment when one man says to another What! You too? I thought that no one but myself ",
   "author":"C.S. Lewis, The Four Loves"
  },
+ {
+ "text":"dont give up too early",
+  "author":"Madalina"
+ }
 ]
