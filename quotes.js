@@ -9,5 +9,9 @@
  "text":"A story is a letter that the author writes to himself, to tell himself things that he would be unable to discover otherwise.",
 
 "author":"Carlos Ruiz Zafón"
- }
+ },
+ {
+ "text":"Friendship ... is born at the moment when one man says to another What! You too? I thought that no one but myself ",
+  "author":"C.S. Lewis, The Four Loves"
+ },
 ]
