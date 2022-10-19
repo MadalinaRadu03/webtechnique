@@ -6,7 +6,7 @@
 "author" : "Eugene Ionesco "
  },
  {
- "text":"A story is a letter that the author writes to himself, to tell himself things that he would be unable to discover otherwise."
+ "text":"A story is a letter that the author writes to himself, to tell himself things that he would be unable to discover otherwise.",
 
 "author":"Carlos Ruiz Zafón"
  }
